@@ -23,6 +23,5 @@
 
 <h3 align="left">Most Used Languages:</h3>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=karchuntan&show_icons=true&locale=en&layout=compact" alt="karchuntan" /></p>
-
 <h3 align="left">GitHub Stats:</h3>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=karchuntan&show_icons=true&locale=en" alt="karchuntan" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=karchuntan&show_icons=true&locale=en" alt="karchuntan" /></p>
