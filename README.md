@@ -13,6 +13,8 @@
 
 - ⚡ True fact **Talent without work, is nothing**
 
+<a href="https://app.daily.dev/Sheldon"><img src="https://api.daily.dev/devcards/5ef0fd49af1a4243876618c5d2c4eb90.png?r=ajm" width="400" alt="Tan Kar Chun's Dev Card"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/karchuntan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karchuntan" height="30" width="40" /></a>
